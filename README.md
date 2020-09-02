@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/ElizaLo/ElizaLo/master/banner.png" width="1500" height="500">
+<img src="https://raw.githubusercontent.com/ElizaLo/ElizaLo/master/banner.png" width="750" height="250">
